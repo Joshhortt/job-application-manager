@@ -27,7 +27,7 @@
             <label for="letter_person">Please fill in your first and last name!</label>
             <input type="text" class="form-control" id="letter_person">
           </div>
-          <button type="submit" class="btn btn-info btn-sm btn-center">Response letter!</button>
+          <button type="submit" class="btn btn-info btn-sm">Response letter!</button>
         </form>
 
         <div id="letter">
@@ -47,23 +47,35 @@
     </div>
 
     <div class="container-fluid">
-      <h1>Confirm an Appointment, Meeting or Interview!</h1>
+      <h2>Confirm an Appointment, Meeting or Interview!</h2>
       <div id="blanks">
         <form>
           <div class="form-group">
             <label for="confirmAsk">Please only answer Yes or No!</label>
             <input type="text" class="form_control" id="confirmAsk">
           </div>
-          <button type="submit" class="btn btn-success">Send!</button>
+          <button type="submit" class="btn btn-warning btn-sm">Send!</button>
         </form>
-
-
         <div id="uppercase">
-          <h2>Here is your confirmation!</h2>
+          <h4>Here is your confirmation!</h4>
           <p><span class="confirmAsk"></span></p>
         </div>
       </div>
     </div>
+
+    <div class="container-fluid">
+  <h2>One last thing, before you leave!</h2>
+  <form id="leap_year">
+    <div class="form-group">
+      <label for="year">Enter the year you were born to find out if it's a leap year:</label>
+      <input type="text" id="year">
+    </div>
+    <button type="submit" class="btn btn-success btn-sm">Find out!</button>
+  </form>
+  <div id="result">
+    <p><span class="year"></span> is <span class="not" style="display:none;">not</span> a leap year.</p>
+  </div>
+</div>
 
   </body>
 </html>
