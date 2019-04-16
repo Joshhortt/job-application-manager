@@ -1,7 +1,27 @@
-#letter{
-  display: none;
+h1  {
+  color: rgb(0, 105, 217);
+
+  margin-top: 30px;
 }
 
 .btn  {
   margin-bottom: 20px;
+  margin-left: 15px;
+}
+
+.greeting  {
+  margin: 15px 15px;
+}
+
+.message  {
+  margin: 25px 25px;
+}
+
+#letter{
+  display: none;
+}
+
+#firm  {
+  font-weight: bold;
+  margin: 25px 25px;
 }
