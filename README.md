@@ -8,8 +8,12 @@ _By **Josh Hortt**_
 ## Description
 
 _The goal of this simple Web page is to **keep track of your Job application process**_.<br/>
-_After entering your name, you will be asked to click the button below, then you will get a written message from the recruiter_.<br/>
+_After entering your name, you will be asked to click the button below, then you will_
+_get a written message from the recruiter_.<br/>
 _Whatever the message is, you your name is included several times inside the message_.
+_The second part of the app you will confirm the Appointment by anwsering **yes** or **no** inside the form_.<br/>
+_To confirm click the button **Send**, then you will get the answer yes or no in **UPPERCASE**_.<br/>
+_in green written color_.
 
 ## Setup/Installation Requirements
 
