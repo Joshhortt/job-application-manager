@@ -17,6 +17,12 @@ h1  {
   margin: 25px 25px;
 }
 
+span.confirmAsk  {
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: green;
+}
+
 #letter{
   display: none;
 }
@@ -24,4 +30,8 @@ h1  {
 #firm  {
   font-weight: bold;
   margin: 25px 25px;
+}
+
+#uppercase  {
+  display: none;
 }
