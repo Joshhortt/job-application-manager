@@ -23,6 +23,15 @@ span.confirmAsk  {
   color: green;
 }
 
+.year   {
+   font-weight: bold;
+}
+
+.not  {
+  text-transform: uppercase;
+  color: red;
+}
+
 #letter{
   display: none;
 }
@@ -33,5 +42,9 @@ span.confirmAsk  {
 }
 
 #uppercase  {
+  display: none;
+}
+
+#result   {
   display: none;
 }
