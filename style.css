@@ -32,6 +32,11 @@ span.confirmAsk  {
   color: red;
 }
 
+.survey  {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
 #letter{
   display: none;
 }
