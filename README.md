@@ -17,6 +17,9 @@ _in **UPPERCASE** and green color_.<br/>
 _The **third part** of the app I added just for fun another form to fill out with your Birthday **Year**_.<br/>
 _After you enter the given year in the form, you should click the button and you will get a message_.<br/>
 _saying, that it **is** or **NOT** a **leap year**. If it is NOT, it will appear in *UPPERCASE** and red color_.
+_The **fourth part** of the app, I added a survey with **radio buttons** to rate the platform_.<br/>
+_The user after each question checks what he thinks about the platform. The scoreboard shows how much he just rated_.<br/>
+_each question. At the end of it, the user knows how much he rated the platform_.
 
 ## Setup/Installation Requirements
 
